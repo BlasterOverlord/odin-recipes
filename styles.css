@@ -1,4 +1,13 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: medium;
+    padding: 8px;
+}
+
+.home-title {
+    margin: 25px;
+}
+
+li {
+    margin: 8px;
 }
